@@ -12,11 +12,11 @@ This function subtracts the second number from the first and returns the result.
 
 ### Complex Functions
 
-#### `sum_of_digits(n)`
+#### `sumofdigits(n)`
 
 Given a number `n`, this function calculates and returns the sum of its digits.
 
-#### `is_palindrome(n)`
+#### `ispal(n)`
 
 This function checks if the given number `n` is a palindrome and returns `True` if it is, otherwise `False`.
 
