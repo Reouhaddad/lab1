@@ -54,3 +54,5 @@ To use the package, follow these steps:
 
 - Run the test script:
  py test_script.py
+
+- you have to get an error to fix it you have to erase # before ic add and before ic substract and you will get the right answer
