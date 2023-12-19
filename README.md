@@ -20,6 +20,10 @@ Given a number `n`, this function calculates and returns the sum of its digits.
 
 This function checks if the given number `n` is a palindrome and returns `True` if it is, otherwise `False`.
 
+#### `myzip(it1, it2)`
+
+This function implements the `zip` function for two collections `it1` and `it2`. It takes two iterable objects (`it1` and `it2`) and returns a list of tuples, where each tuple contains the corresponding elements from the input iterables.
+
 ## Important Note
 
 To ensure proper functionality, it is mandatory to call at least one function from the `simp` module before attempting to use any functions from the `comp` module.
